@@ -1,6 +1,6 @@
 {
     "docs"      : ["vimtips", "css"],
-    "template"    : "phase",
+    "template"    : "greyshade",
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
