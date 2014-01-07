@@ -1,6 +1,6 @@
 {
     "docs"      : ["vimtips", "css"],
-    "template"    : "slate",
+    "template"    : "tactile",
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
