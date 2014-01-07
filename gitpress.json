@@ -1,0 +1,11 @@
+{
+    "docs"      : ["vimtips", "css"],
+    "template"    : "default",
+    "perpage"   : 10,
+    "order"  : "number",
+    "types"     : {
+        "\\.(md||markdown)$"   : "markdown"
+    },
+    "title"  : "Wenbo's Notes",
+    "description" : "My notes"
+}
