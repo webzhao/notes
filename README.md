@@ -12,3 +12,7 @@ I have stopped using Evernote due to its ugly UI and start using Github as an al
 * [Setting file type](vimtips/setting-filetype.md)
 * [Text objects](vimtips/text-objects.md)
 * [Visual block](vimtips/visual-block.md)
+
+## CSS
+
+* [Vertical align](css/vertical-align.md)
