@@ -7,5 +7,5 @@
         "\\.(md||markdown)$"   : "markdown"
     },
     "title"  : "Wenbo's Notes",
-    "description" : "My notes"
+    "description" : "I have stopped using Evernote due to its ugly UI and start using Github as an alternative for taking notes."
 }
