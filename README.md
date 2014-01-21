@@ -16,3 +16,7 @@ I have stopped using Evernote due to its ugly UI and start using Github as an al
 ## CSS
 
 * [Vertical align](css/vertical-align.md)
+
+## Git
+
+* [Revert changes](git/revert.md)
