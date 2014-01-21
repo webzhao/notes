@@ -1,11 +1,12 @@
 {
     "docs"      : ["vimtips", "css"],
-    "template"    : "phase",
+    "template"    : "greyshade",
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
         "\\.(md||markdown)$"   : "markdown"
     },
+    "comment": null,
     "title"  : "Wenbo's Notes",
     "description" : "I have stopped using Evernote due to its ugly UI and start using Github as an alternative for taking notes."
 }
