@@ -85,15 +85,28 @@
 
 ## 工具
 
-* **Vim**或**Sublime Text**
-* 浏览器调试工具
-* Fiddler
-* Grunt
+* 编辑器
+    * [Vim](http://www.vim.org/)
+    * [Sublime Text](http://www.sublimetext.com/)
+* 调试工具
+    * [浏览器开发者工具](https://developers.google.com/chrome-developer-tools/)
+    * [Fiddler](http://www.telerik.com/fiddler)
+* 提高效率
+    * [Grunt](http://gruntjs.com)
+    * [Emmet](http://docs.emmet.io/)
+* 版本控制
+    * Git
+    * SVN
 
 ## 服务器端
 
-* PHP and Smarty
- Node.js
+* 编程语言
+    * PHP and Smarty
+    * Node.js
+* Linux操作
+* 服务器配置
+    * Nginx
+    * Apache
 
 ## UI与交互
 
