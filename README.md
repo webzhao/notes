@@ -4,7 +4,7 @@ I have stopped using Evernote due to its ugly UI and start using Github as an al
 
 ## Vim Tips
 
-* [Using mouse in Vim](using-mouse.md)
+* [Using mouse in Vim](vimtips/using-mouse.md)
 * [Auto completion](vimtips/auto-completion.md)
 * [Editing commands](vimtips/editing-commands.md)
 * [Filter text](vimtips/filter-text.md)
